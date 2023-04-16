@@ -1,0 +1,12 @@
+admin 
+
+email : ambatukam@gmail.com
+pw : ambatukam
+
+
+
+
+user
+
+email : rusdi@gmail.com
+pw : rusdi
